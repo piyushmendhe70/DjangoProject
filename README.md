@@ -34,8 +34,11 @@ Customize and extend the application as per your requirements.
 
 ## API Endpoints
 Vendors: /api/Vendor/
+
 Purchase Orders: /api/PurchaseOrder/
+
 Historical Performances: /api/HistoricalPerformance/
+
 Vendor Performance Metrics: /api/vendor-performance/<vendor_id>/performance/
 
 ## Contributing
